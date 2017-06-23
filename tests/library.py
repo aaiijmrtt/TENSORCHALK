@@ -3,24 +3,22 @@ import tensorflow
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'code')))
 import library
 
-subset = set(['tensorflow', 'nn', 'add'])
-
 graph = library.__create__(
 	dict(),
-	'tensorflow',
+	'tensorflow.',
 	tensorflow
 )
 
 fillstring, filldict = library.__fill__(
 	graph,
-	'tensorflow',
-	dict(),
-	subset,
-	0
+	'tensorflow.',
+	dict()
 )
 
-for something in subset:
-	print '[%s]' %something
-	print graph['documentation'][something]
-	print '...'
-print fillstring
+docstring = library.__docs__(
+	graph
+)
+
+print '\n'.join(fillstring.split('\n')[: 20])
+print
+print '\n'.join(docstring.split('\n')[: 20])
