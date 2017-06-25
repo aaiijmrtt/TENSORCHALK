@@ -1,0 +1,22 @@
+[
+    {
+		"text": "Utility",
+		"link": "index.html",
+		"pageName": "index"
+	},
+	{
+		"text": "Computation Graph",
+		"link": "comp-graph.html",
+		"pageName": "comp-graph"
+	},
+	{
+		"text": "Documentation",
+		"link": "docs.html",
+		"pageName": "docs"
+	},
+	{
+		"text": "Tensorflow API",
+		"link": "https://www.tensorflow.org/api_docs/",
+		"pageName": "tensorflow"
+	}
+]

@@ -1,0 +1,10 @@
+<div class="row" id="navbar">
+    <div class="columns medium-3" id="brand">TensorChalk</div>
+    <div class="columns medium-9 menu-centered" id="navbar-menu">
+        <ul class="menu">
+            {{#each navbar_entry}}
+                <li><a href="{{link}}" class="{{#ifpage pageName}}current{{/ifpage}}">{{text}}</a></li>
+            {{/each}}
+        </ul>
+    </div>
+</div>

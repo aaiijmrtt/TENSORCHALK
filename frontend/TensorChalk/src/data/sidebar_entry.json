@@ -1,0 +1,18 @@
+[
+    {
+        "text": "Add Node",
+        "link": "#"
+    },
+    {
+        "text": "Edit Node",
+        "link": "#"
+    },
+    {
+        "text": "Add Edge",
+        "link": "#"
+    },
+    {
+        "text": "Remove Edge",
+        "link": "#"
+    }
+]

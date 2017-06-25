@@ -1,0 +1,70 @@
+$default-bg: #053C5E;
+$light-bg: #325f7b;
+$lighter-bg: #5f8298;
+$lightest-bg: #8da6b5;
+$dark-bg: #05324d;
+$darker-bg: #04273C;
+$darkest-bg: #031C2B;
+
+$default-fg: #Cae1f8;
+$light-fg: #d6e8f9;
+$lighter-fg: #e1eefb;
+$lightest-fg: #edf5fc;
+$dark-fg: #bfdbf7;
+$darker-fg: #9db4cb;
+$darkest-fg: #7a8c9e;
+
+#navbar {
+    background-color: $darker-bg;
+    color: $default-fg;
+    padding: 1em;
+    align-items: center;
+
+    #brand {
+        color: $lightest-fg;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+
+    #navbar-menu {
+
+        .menu {
+
+            li {
+
+                a {
+                    padding: 1em 0.5em;
+                    margin: 0em 0.25em;
+                    color: $default-fg;
+                }
+
+                a.current{
+                    color: $lightest-fg;
+                    border-bottom: 2px solid $light-fg;
+                }
+
+                :hover {
+                    background-color: $light-bg;
+                }
+            }
+        }
+    }
+}
+
+#sidebar {
+    background-color: $light-bg;
+
+    li {
+        padding: 0.85em 0em;
+        margin: 0.15em 0em;
+
+        a {
+            color: $light-fg;
+            border-bottom: 2px solid $light-bg;
+        }
+
+        :hover {
+            border-bottom: 2px solid $lightest-fg;
+        }
+    }
+}
