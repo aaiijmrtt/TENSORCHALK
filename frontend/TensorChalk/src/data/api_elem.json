@@ -1,0 +1,2272 @@
+[
+	{
+		"text": "app",
+		"id": "app",
+		"sublist": []
+	},
+	{
+		"text": "compat",
+		"id": "compat",
+		"sublist": []
+	},
+	{
+		"text": "core",
+		"id": "core",
+		"sublist": []
+	},
+	{
+		"text": "errors",
+		"id": "errors",
+		"sublist": []
+	},
+	{
+		"text": "flags",
+		"id": "flags",
+		"sublist": []
+	},
+	{
+		"text": "gfile",
+		"id": "gfile",
+		"sublist": []
+	},
+	{
+		"text": "graph_util",
+		"id": "graph_util",
+		"sublist": []
+	},
+	{
+		"text": "image",
+		"id": "image",
+		"sublist": []
+	},
+	{
+		"text": "layers",
+		"id": "layers",
+		"sublist": []
+	},
+	{
+		"text": "logging",
+		"id": "logging",
+		"sublist": []
+	},
+	{
+		"text": "losses",
+		"id": "losses",
+		"sublist": []
+	},
+	{
+		"text": "metrics",
+		"id": "metrics",
+		"sublist": []
+	},
+	{
+		"text": "nn",
+		"id": "nn",
+		"sublist":
+			[{
+				"text": "_ctc_ops",
+				"id": "_ctc_ops.nn.tensorflow."
+			},
+			{
+				"text": "_embedding_ops",
+				"id": "_embedding_ops.nn.tensorflow."
+			},
+			{
+				"text": "_nn_grad",
+				"id": "_nn_grad.nn.tensorflow."
+			},
+			{
+				"text": "_nn_ops",
+				"id": "_nn_ops.nn.tensorflow."
+			},
+			{
+				"text": "_sys",
+				"id": "_sys.nn.tensorflow."
+			},
+			{
+				"text": "all_candidate_sampler",
+				"id": "all_candidate_sampler.nn.tensorflow."
+			},
+			{
+				"text": "atrous_conv2d",
+				"id": "atrous_conv2d.nn.tensorflow."
+			},
+			{
+				"text": "atrous_conv2d_transpose",
+				"id": "atrous_conv2d_transpose.nn.tensorflow."
+			},
+			{
+				"text": "avg_pool",
+				"id": "avg_pool.nn.tensorflow."
+			},
+			{
+				"text": "avg_pool3d",
+				"id": "avg_pool3d.nn.tensorflow."
+			},
+			{
+				"text": "batch_norm_with_global_normalization",
+				"id": "batch_norm_with_global_normalization.nn.tensorflow."
+			},
+			{
+				"text": "batch_normalization",
+				"id": "batch_normalization.nn.tensorflow."
+			},
+			{
+				"text": "bias_add",
+				"id": "bias_add.nn.tensorflow."
+			},
+			{
+				"text": "bidirectional_dynamic_rnn",
+				"id": "bidirectional_dynamic_rnn.nn.tensorflow."
+			},
+			{
+				"text": "compute_accidental_hits",
+				"id": "compute_accidental_hits.nn.tensorflow."
+			},
+			{
+				"text": "conv1d",
+				"id": "conv1d.nn.tensorflow."
+			},
+			{
+				"text": "conv2d",
+				"id": "conv2d.nn.tensorflow."
+			},
+			{
+				"text": "conv2d_backprop_filter",
+				"id": "conv2d_backprop_filter.nn.tensorflow."
+			},
+			{
+				"text": "conv2d_backprop_input",
+				"id": "conv2d_backprop_input.nn.tensorflow."
+			},
+			{
+				"text": "conv2d_transpose",
+				"id": "conv2d_transpose.nn.tensorflow."
+			},
+			{
+				"text": "conv3d",
+				"id": "conv3d.nn.tensorflow."
+			},
+			{
+				"text": "conv3d_backprop_filter_v2",
+				"id": "conv3d_backprop_filter_v2.nn.tensorflow."
+			},
+			{
+				"text": "conv3d_transpose",
+				"id": "conv3d_transpose.nn.tensorflow."
+			},
+			{
+				"text": "convolution",
+				"id": "convolution.nn.tensorflow."
+			},
+			{
+				"text": "crelu",
+				"id": "crelu.nn.tensorflow."
+			},
+			{
+				"text": "ctc_beam_search_decoder",
+				"id": "ctc_beam_search_decoder.nn.tensorflow."
+			},
+			{
+				"text": "ctc_greedy_decoder",
+				"id": "ctc_greedy_decoder.nn.tensorflow."
+			},
+			{
+				"text": "ctc_loss",
+				"id": "ctc_loss.nn.tensorflow."
+			},
+			{
+				"text": "depthwise_conv2d",
+				"id": "depthwise_conv2d.nn.tensorflow."
+			},
+			{
+				"text": "depthwise_conv2d_native",
+				"id": "depthwise_conv2d_native.nn.tensorflow."
+			},
+			{
+				"text": "depthwise_conv2d_native_backprop_filter",
+				"id": "depthwise_conv2d_native_backprop_filter.nn.tensorflow."
+			},
+			{
+				"text": "depthwise_conv2d_native_backprop_input",
+				"id": "depthwise_conv2d_native_backprop_input.nn.tensorflow."
+			},
+			{
+				"text": "dilation2d",
+				"id": "dilation2d.nn.tensorflow."
+			},
+			{
+				"text": "dropout",
+				"id": "dropout.nn.tensorflow."
+			},
+			{
+				"text": "dynamic_rnn",
+				"id": "dynamic_rnn.nn.tensorflow."
+			},
+			{
+				"text": "elu",
+				"id": "elu.nn.tensorflow."
+			},
+			{
+				"text": "embedding_lookup",
+				"id": "embedding_lookup.nn.tensorflow."
+			},
+			{
+				"text": "embedding_lookup_sparse",
+				"id": "embedding_lookup_sparse.nn.tensorflow."
+			},
+			{
+				"text": "erosion2d",
+				"id": "erosion2d.nn.tensorflow."
+			},
+			{
+				"text": "fixed_unigram_candidate_sampler",
+				"id": "fixed_unigram_candidate_sampler.nn.tensorflow."
+			},
+			{
+				"text": "fractional_avg_pool",
+				"id": "fractional_avg_pool.nn.tensorflow."
+			},
+			{
+				"text": "fractional_max_pool",
+				"id": "fractional_max_pool.nn.tensorflow."
+			},
+			{
+				"text": "fused_batch_norm",
+				"id": "fused_batch_norm.nn.tensorflow."
+			},
+			{
+				"text": "in_top_k",
+				"id": "in_top_k.nn.tensorflow."
+			},
+			{
+				"text": "l2_loss",
+				"id": "l2_loss.nn.tensorflow."
+			},
+			{
+				"text": "l2_normalize",
+				"id": "l2_normalize.nn.tensorflow."
+			},
+			{
+				"text": "learned_unigram_candidate_sampler",
+				"id": "learned_unigram_candidate_sampler.nn.tensorflow."
+			},
+			{
+				"text": "local_response_normalization",
+				"id": "local_response_normalization.nn.tensorflow."
+			},
+			{
+				"text": "log_poisson_loss",
+				"id": "log_poisson_loss.nn.tensorflow."
+			},
+			{
+				"text": "log_softmax",
+				"id": "log_softmax.nn.tensorflow."
+			},
+			{
+				"text": "log_uniform_candidate_sampler",
+				"id": "log_uniform_candidate_sampler.nn.tensorflow."
+			},
+			{
+				"text": "lrn",
+				"id": "lrn.nn.tensorflow."
+			},
+			{
+				"text": "max_pool",
+				"id": "max_pool.nn.tensorflow."
+			},
+			{
+				"text": "max_pool3d",
+				"id": "max_pool3d.nn.tensorflow."
+			},
+			{
+				"text": "max_pool_with_argmax",
+				"id": "max_pool_with_argmax.nn.tensorflow."
+			},
+			{
+				"text": "moments",
+				"id": "moments.nn.tensorflow."
+			},
+			{
+				"text": "nce_loss",
+				"id": "nce_loss.nn.tensorflow."
+			},
+			{
+				"text": "normalize_moments",
+				"id": "normalize_moments.nn.tensorflow."
+			},
+			{
+				"text": "pool",
+				"id": "pool.nn.tensorflow."
+			},
+			{
+				"text": "quantized_avg_pool",
+				"id": "quantized_avg_pool.nn.tensorflow."
+			},
+			{
+				"text": "quantized_conv2d",
+				"id": "quantized_conv2d.nn.tensorflow."
+			},
+			{
+				"text": "quantized_max_pool",
+				"id": "quantized_max_pool.nn.tensorflow."
+			},
+			{
+				"text": "quantized_relu_x",
+				"id": "quantized_relu_x.nn.tensorflow."
+			},
+			{
+				"text": "raw_rnn",
+				"id": "raw_rnn.nn.tensorflow."
+			},
+			{
+				"text": "relu",
+				"id": "relu.nn.tensorflow."
+			},
+			{
+				"text": "relu6",
+				"id": "relu6.nn.tensorflow."
+			},
+			{
+				"text": "relu_layer",
+				"id": "relu_layer.nn.tensorflow."
+			},
+			{
+				"text": "sampled_softmax_loss",
+				"id": "sampled_softmax_loss.nn.tensorflow."
+			},
+			{
+				"text": "separable_conv2d",
+				"id": "separable_conv2d.nn.tensorflow."
+			},
+			{
+				"text": "sigmoid",
+				"id": "sigmoid.nn.tensorflow."
+			},
+			{
+				"text": "sigmoid_cross_entropy_with_logits",
+				"id": "sigmoid_cross_entropy_with_logits.nn.tensorflow."
+			},
+			{
+				"text": "softmax",
+				"id": "softmax.nn.tensorflow."
+			},
+			{
+				"text": "softmax_cross_entropy_with_logits",
+				"id": "softmax_cross_entropy_with_logits.nn.tensorflow."
+			},
+			{
+				"text": "softplus",
+				"id": "softplus.nn.tensorflow."
+			},
+			{
+				"text": "softsign",
+				"id": "softsign.nn.tensorflow."
+			},
+			{
+				"text": "sparse_softmax_cross_entropy_with_logits",
+				"id": "sparse_softmax_cross_entropy_with_logits.nn.tensorflow."
+			},
+			{
+				"text": "sufficient_statistics",
+				"id": "sufficient_statistics.nn.tensorflow."
+			},
+			{
+				"text": "tanh",
+				"id": "tanh.nn.tensorflow."
+			},
+			{
+				"text": "top_k",
+				"id": "top_k.nn.tensorflow."
+			},
+			{
+				"text": "uniform_candidate_sampler",
+				"id": "uniform_candidate_sampler.nn.tensorflow."
+			},
+			{
+				"text": "weighted_cross_entropy_with_logits",
+				"id": "weighted_cross_entropy_with_logits.nn.tensorflow."
+			},
+			{
+				"text": "weighted_moments",
+				"id": "weighted_moments.nn.tensorflow."
+			},
+			{
+				"text": "with_space_to_batch",
+				"id": "with_space_to_batch.nn.tensorflow."
+			},
+			{
+				"text": "xw_plus_b",
+				"id": "xw_plus_b.nn.tensorflow."
+			},
+			{
+				"text": "zero_fraction",
+				"id": "zero_fraction.nn.tensorflow."
+			}]
+	},
+	{
+		"text": "python",
+		"id": "python",
+		"sublist": []
+	},
+	{
+		"text": "python_io",
+		"id": "python_io",
+		"sublist": []
+	},
+	{
+		"text": "pywrap_tensorflow",
+		"id": "pywrap_tensorflow",
+		"sublist": []
+	},
+	{
+		"text": "resource_loader",
+		"id": "resource_loader",
+		"sublist": []
+	},
+	{
+		"text": "saved_model",
+		"id": "saved_model",
+		"sublist": []
+	},
+	{
+		"text": "sdca",
+		"id": "sdca",
+		"sublist": []
+	},
+	{
+		"text": "sets",
+		"id": "sets",
+		"sublist": []
+	},
+	{
+		"text": "summary",
+		"id": "summary",
+		"sublist": []
+	},
+	{
+		"text": "sysconfig",
+		"id": "sysconfig",
+		"sublist": []
+	},
+	{
+		"text": "test",
+		"id": "test",
+		"sublist": []
+	},
+	{
+		"text": "train",
+		"id": "train",
+		"sublist": []
+	},
+	{
+		"text": "user_ops",
+		"id": "user_ops",
+		"sublist": []
+	},
+	{
+		"text": "Assert",
+		"id": "Assert",
+		"sublist": []
+	},
+	{
+		"text": "NoGradient",
+		"id": "NoGradient",
+		"sublist": []
+	},
+	{
+		"text": "NotDifferentiable",
+		"id": "NotDifferentiable",
+		"sublist": []
+	},
+	{
+		"text": "Print",
+		"id": "Print",
+		"sublist": []
+	},
+	{
+		"text": "abs",
+		"id": "abs",
+		"sublist": []
+	},
+	{
+		"text": "accumulate_n",
+		"id": "accumulate_n",
+		"sublist": []
+	},
+	{
+		"text": "acos",
+		"id": "acos",
+		"sublist": []
+	},
+	{
+		"text": "add",
+		"id": "add",
+		"sublist": []
+	},
+	{
+		"text": "add_check_numerics_ops",
+		"id": "add_check_numerics_ops",
+		"sublist": []
+	},
+	{
+		"text": "add_n",
+		"id": "add_n",
+		"sublist": []
+	},
+	{
+		"text": "add_to_collection",
+		"id": "add_to_collection",
+		"sublist": []
+	},
+	{
+		"text": "all_variables",
+		"id": "all_variables",
+		"sublist": []
+	},
+	{
+		"text": "arg_max",
+		"id": "arg_max",
+		"sublist": []
+	},
+	{
+		"text": "arg_min",
+		"id": "arg_min",
+		"sublist": []
+	},
+	{
+		"text": "argmax",
+		"id": "argmax",
+		"sublist": []
+	},
+	{
+		"text": "argmin",
+		"id": "argmin",
+		"sublist": []
+	},
+	{
+		"text": "as_dtype",
+		"id": "as_dtype",
+		"sublist": []
+	},
+	{
+		"text": "as_string",
+		"id": "as_string",
+		"sublist": []
+	},
+	{
+		"text": "asin",
+		"id": "asin",
+		"sublist": []
+	},
+	{
+		"text": "assert_equal",
+		"id": "assert_equal",
+		"sublist": []
+	},
+	{
+		"text": "assert_greater",
+		"id": "assert_greater",
+		"sublist": []
+	},
+	{
+		"text": "assert_greater_equal",
+		"id": "assert_greater_equal",
+		"sublist": []
+	},
+	{
+		"text": "assert_integer",
+		"id": "assert_integer",
+		"sublist": []
+	},
+	{
+		"text": "assert_less",
+		"id": "assert_less",
+		"sublist": []
+	},
+	{
+		"text": "assert_less_equal",
+		"id": "assert_less_equal",
+		"sublist": []
+	},
+	{
+		"text": "assert_negative",
+		"id": "assert_negative",
+		"sublist": []
+	},
+	{
+		"text": "assert_non_negative",
+		"id": "assert_non_negative",
+		"sublist": []
+	},
+	{
+		"text": "assert_non_positive",
+		"id": "assert_non_positive",
+		"sublist": []
+	},
+	{
+		"text": "assert_positive",
+		"id": "assert_positive",
+		"sublist": []
+	},
+	{
+		"text": "assert_proper_iterable",
+		"id": "assert_proper_iterable",
+		"sublist": []
+	},
+	{
+		"text": "assert_rank",
+		"id": "assert_rank",
+		"sublist": []
+	},
+	{
+		"text": "assert_rank_at_least",
+		"id": "assert_rank_at_least",
+		"sublist": []
+	},
+	{
+		"text": "assert_type",
+		"id": "assert_type",
+		"sublist": []
+	},
+	{
+		"text": "assert_variables_initialized",
+		"id": "assert_variables_initialized",
+		"sublist": []
+	},
+	{
+		"text": "assign",
+		"id": "assign",
+		"sublist": []
+	},
+	{
+		"text": "assign_add",
+		"id": "assign_add",
+		"sublist": []
+	},
+	{
+		"text": "assign_sub",
+		"id": "assign_sub",
+		"sublist": []
+	},
+	{
+		"text": "atan",
+		"id": "atan",
+		"sublist": []
+	},
+	{
+		"text": "batch_to_space",
+		"id": "batch_to_space",
+		"sublist": []
+	},
+	{
+		"text": "batch_to_space_nd",
+		"id": "batch_to_space_nd",
+		"sublist": []
+	},
+	{
+		"text": "betainc",
+		"id": "betainc",
+		"sublist": []
+	},
+	{
+		"text": "bitcast",
+		"id": "bitcast",
+		"sublist": []
+	},
+	{
+		"text": "boolean_mask",
+		"id": "boolean_mask",
+		"sublist": []
+	},
+	{
+		"text": "broadcast_dynamic_shape",
+		"id": "broadcast_dynamic_shape",
+		"sublist": []
+	},
+	{
+		"text": "broadcast_static_shape",
+		"id": "broadcast_static_shape",
+		"sublist": []
+	},
+	{
+		"text": "case",
+		"id": "case",
+		"sublist": []
+	},
+	{
+		"text": "cast",
+		"id": "cast",
+		"sublist": []
+	},
+	{
+		"text": "ceil",
+		"id": "ceil",
+		"sublist": []
+	},
+	{
+		"text": "check_numerics",
+		"id": "check_numerics",
+		"sublist": []
+	},
+	{
+		"text": "cholesky",
+		"id": "cholesky",
+		"sublist": []
+	},
+	{
+		"text": "cholesky_solve",
+		"id": "cholesky_solve",
+		"sublist": []
+	},
+	{
+		"text": "clip_by_average_norm",
+		"id": "clip_by_average_norm",
+		"sublist": []
+	},
+	{
+		"text": "clip_by_global_norm",
+		"id": "clip_by_global_norm",
+		"sublist": []
+	},
+	{
+		"text": "clip_by_norm",
+		"id": "clip_by_norm",
+		"sublist": []
+	},
+	{
+		"text": "clip_by_value",
+		"id": "clip_by_value",
+		"sublist": []
+	},
+	{
+		"text": "complex",
+		"id": "complex",
+		"sublist": []
+	},
+	{
+		"text": "concat",
+		"id": "concat",
+		"sublist": []
+	},
+	{
+		"text": "cond",
+		"id": "cond",
+		"sublist": []
+	},
+	{
+		"text": "confusion_matrix",
+		"id": "confusion_matrix",
+		"sublist": []
+	},
+	{
+		"text": "conj",
+		"id": "conj",
+		"sublist": []
+	},
+	{
+		"text": "constant",
+		"id": "constant",
+		"sublist": []
+	},
+	{
+		"text": "container",
+		"id": "container",
+		"sublist": []
+	},
+	{
+		"text": "control_dependencies",
+		"id": "control_dependencies",
+		"sublist": []
+	},
+	{
+		"text": "convert_to_tensor",
+		"id": "convert_to_tensor",
+		"sublist": []
+	},
+	{
+		"text": "convert_to_tensor_or_indexed_slices",
+		"id": "convert_to_tensor_or_indexed_slices",
+		"sublist": []
+	},
+	{
+		"text": "convert_to_tensor_or_sparse_tensor",
+		"id": "convert_to_tensor_or_sparse_tensor",
+		"sublist": []
+	},
+	{
+		"text": "cos",
+		"id": "cos",
+		"sublist": []
+	},
+	{
+		"text": "count_nonzero",
+		"id": "count_nonzero",
+		"sublist": []
+	},
+	{
+		"text": "count_up_to",
+		"id": "count_up_to",
+		"sublist": []
+	},
+	{
+		"text": "create_partitioned_variables",
+		"id": "create_partitioned_variables",
+		"sublist": []
+	},
+	{
+		"text": "cross",
+		"id": "cross",
+		"sublist": []
+	},
+	{
+		"text": "cumprod",
+		"id": "cumprod",
+		"sublist": []
+	},
+	{
+		"text": "cumsum",
+		"id": "cumsum",
+		"sublist": []
+	},
+	{
+		"text": "decode_base64",
+		"id": "decode_base64",
+		"sublist": []
+	},
+	{
+		"text": "decode_csv",
+		"id": "decode_csv",
+		"sublist": []
+	},
+	{
+		"text": "decode_json_example",
+		"id": "decode_json_example",
+		"sublist": []
+	},
+	{
+		"text": "decode_raw",
+		"id": "decode_raw",
+		"sublist": []
+	},
+	{
+		"text": "delete_session_tensor",
+		"id": "delete_session_tensor",
+		"sublist": []
+	},
+	{
+		"text": "depth_to_space",
+		"id": "depth_to_space",
+		"sublist": []
+	},
+	{
+		"text": "dequantize",
+		"id": "dequantize",
+		"sublist": []
+	},
+	{
+		"text": "deserialize_many_sparse",
+		"id": "deserialize_many_sparse",
+		"sublist": []
+	},
+	{
+		"text": "device",
+		"id": "device",
+		"sublist": []
+	},
+	{
+		"text": "diag",
+		"id": "diag",
+		"sublist": []
+	},
+	{
+		"text": "diag_part",
+		"id": "diag_part",
+		"sublist": []
+	},
+	{
+		"text": "digamma",
+		"id": "digamma",
+		"sublist": []
+	},
+	{
+		"text": "div",
+		"id": "div",
+		"sublist": []
+	},
+	{
+		"text": "divide",
+		"id": "divide",
+		"sublist": []
+	},
+	{
+		"text": "dynamic_partition",
+		"id": "dynamic_partition",
+		"sublist": []
+	},
+	{
+		"text": "dynamic_stitch",
+		"id": "dynamic_stitch",
+		"sublist": []
+	},
+	{
+		"text": "edit_distance",
+		"id": "edit_distance",
+		"sublist": []
+	},
+	{
+		"text": "einsum",
+		"id": "einsum",
+		"sublist": []
+	},
+	{
+		"text": "encode_base64",
+		"id": "encode_base64",
+		"sublist": []
+	},
+	{
+		"text": "equal",
+		"id": "equal",
+		"sublist": []
+	},
+	{
+		"text": "erf",
+		"id": "erf",
+		"sublist": []
+	},
+	{
+		"text": "erfc",
+		"id": "erfc",
+		"sublist": []
+	},
+	{
+		"text": "exp",
+		"id": "exp",
+		"sublist": []
+	},
+	{
+		"text": "expand_dims",
+		"id": "expand_dims",
+		"sublist": []
+	},
+	{
+		"text": "expm1",
+		"id": "expm1",
+		"sublist": []
+	},
+	{
+		"text": "extract_image_patches",
+		"id": "extract_image_patches",
+		"sublist": []
+	},
+	{
+		"text": "eye",
+		"id": "eye",
+		"sublist": []
+	},
+	{
+		"text": "fake_quant_with_min_max_args",
+		"id": "fake_quant_with_min_max_args",
+		"sublist": []
+	},
+	{
+		"text": "fake_quant_with_min_max_args_gradient",
+		"id": "fake_quant_with_min_max_args_gradient",
+		"sublist": []
+	},
+	{
+		"text": "fake_quant_with_min_max_vars",
+		"id": "fake_quant_with_min_max_vars",
+		"sublist": []
+	},
+	{
+		"text": "fake_quant_with_min_max_vars_gradient",
+		"id": "fake_quant_with_min_max_vars_gradient",
+		"sublist": []
+	},
+	{
+		"text": "fake_quant_with_min_max_vars_per_channel",
+		"id": "fake_quant_with_min_max_vars_per_channel",
+		"sublist": []
+	},
+	{
+		"text": "fake_quant_with_min_max_vars_per_channel_gradient",
+		"id": "fake_quant_with_min_max_vars_per_channel_gradient",
+		"sublist": []
+	},
+	{
+		"text": "fft",
+		"id": "fft",
+		"sublist": []
+	},
+	{
+		"text": "fft2d",
+		"id": "fft2d",
+		"sublist": []
+	},
+	{
+		"text": "fft3d",
+		"id": "fft3d",
+		"sublist": []
+	},
+	{
+		"text": "fill",
+		"id": "fill",
+		"sublist": []
+	},
+	{
+		"text": "fixed_size_partitioner",
+		"id": "fixed_size_partitioner",
+		"sublist": []
+	},
+	{
+		"text": "floor",
+		"id": "floor",
+		"sublist": []
+	},
+	{
+		"text": "floor_div",
+		"id": "floor_div",
+		"sublist": []
+	},
+	{
+		"text": "floordiv",
+		"id": "floordiv",
+		"sublist": []
+	},
+	{
+		"text": "floormod",
+		"id": "floormod",
+		"sublist": []
+	},
+	{
+		"text": "foldl",
+		"id": "foldl",
+		"sublist": []
+	},
+	{
+		"text": "foldr",
+		"id": "foldr",
+		"sublist": []
+	},
+	{
+		"text": "gather",
+		"id": "gather",
+		"sublist": []
+	},
+	{
+		"text": "gather_nd",
+		"id": "gather_nd",
+		"sublist": []
+	},
+	{
+		"text": "get_collection",
+		"id": "get_collection",
+		"sublist": []
+	},
+	{
+		"text": "get_collection_ref",
+		"id": "get_collection_ref",
+		"sublist": []
+	},
+	{
+		"text": "get_default_graph",
+		"id": "get_default_graph",
+		"sublist": []
+	},
+	{
+		"text": "get_default_session",
+		"id": "get_default_session",
+		"sublist": []
+	},
+	{
+		"text": "get_local_variable",
+		"id": "get_local_variable",
+		"sublist": []
+	},
+	{
+		"text": "get_seed",
+		"id": "get_seed",
+		"sublist": []
+	},
+	{
+		"text": "get_session_handle",
+		"id": "get_session_handle",
+		"sublist": []
+	},
+	{
+		"text": "get_session_tensor",
+		"id": "get_session_tensor",
+		"sublist": []
+	},
+	{
+		"text": "get_variable",
+		"id": "get_variable",
+		"sublist": []
+	},
+	{
+		"text": "get_variable_scope",
+		"id": "get_variable_scope",
+		"sublist": []
+	},
+	{
+		"text": "global_norm",
+		"id": "global_norm",
+		"sublist": []
+	},
+	{
+		"text": "global_variables",
+		"id": "global_variables",
+		"sublist": []
+	},
+	{
+		"text": "global_variables_initializer",
+		"id": "global_variables_initializer",
+		"sublist": []
+	},
+	{
+		"text": "gradients",
+		"id": "gradients",
+		"sublist": []
+	},
+	{
+		"text": "greater",
+		"id": "greater",
+		"sublist": []
+	},
+	{
+		"text": "greater_equal",
+		"id": "greater_equal",
+		"sublist": []
+	},
+	{
+		"text": "group",
+		"id": "group",
+		"sublist": []
+	},
+	{
+		"text": "hessians",
+		"id": "hessians",
+		"sublist": []
+	},
+	{
+		"text": "histogram_fixed_width",
+		"id": "histogram_fixed_width",
+		"sublist": []
+	},
+	{
+		"text": "identity",
+		"id": "identity",
+		"sublist": []
+	},
+	{
+		"text": "ifft",
+		"id": "ifft",
+		"sublist": []
+	},
+	{
+		"text": "ifft2d",
+		"id": "ifft2d",
+		"sublist": []
+	},
+	{
+		"text": "ifft3d",
+		"id": "ifft3d",
+		"sublist": []
+	},
+	{
+		"text": "igamma",
+		"id": "igamma",
+		"sublist": []
+	},
+	{
+		"text": "igammac",
+		"id": "igammac",
+		"sublist": []
+	},
+	{
+		"text": "imag",
+		"id": "imag",
+		"sublist": []
+	},
+	{
+		"text": "import_graph_def",
+		"id": "import_graph_def",
+		"sublist": []
+	},
+	{
+		"text": "initialize_all_tables",
+		"id": "initialize_all_tables",
+		"sublist": []
+	},
+	{
+		"text": "initialize_all_variables",
+		"id": "initialize_all_variables",
+		"sublist": []
+	},
+	{
+		"text": "initialize_local_variables",
+		"id": "initialize_local_variables",
+		"sublist": []
+	},
+	{
+		"text": "initialize_variables",
+		"id": "initialize_variables",
+		"sublist": []
+	},
+	{
+		"text": "invert_permutation",
+		"id": "invert_permutation",
+		"sublist": []
+	},
+	{
+		"text": "is_finite",
+		"id": "is_finite",
+		"sublist": []
+	},
+	{
+		"text": "is_inf",
+		"id": "is_inf",
+		"sublist": []
+	},
+	{
+		"text": "is_nan",
+		"id": "is_nan",
+		"sublist": []
+	},
+	{
+		"text": "is_non_decreasing",
+		"id": "is_non_decreasing",
+		"sublist": []
+	},
+	{
+		"text": "is_numeric_tensor",
+		"id": "is_numeric_tensor",
+		"sublist": []
+	},
+	{
+		"text": "is_strictly_increasing",
+		"id": "is_strictly_increasing",
+		"sublist": []
+	},
+	{
+		"text": "is_variable_initialized",
+		"id": "is_variable_initialized",
+		"sublist": []
+	},
+	{
+		"text": "lbeta",
+		"id": "lbeta",
+		"sublist": []
+	},
+	{
+		"text": "less",
+		"id": "less",
+		"sublist": []
+	},
+	{
+		"text": "less_equal",
+		"id": "less_equal",
+		"sublist": []
+	},
+	{
+		"text": "lgamma",
+		"id": "lgamma",
+		"sublist": []
+	},
+	{
+		"text": "lin_space",
+		"id": "lin_space",
+		"sublist": []
+	},
+	{
+		"text": "linspace",
+		"id": "linspace",
+		"sublist": []
+	},
+	{
+		"text": "load_file_system_library",
+		"id": "load_file_system_library",
+		"sublist": []
+	},
+	{
+		"text": "load_op_library",
+		"id": "load_op_library",
+		"sublist": []
+	},
+	{
+		"text": "local_variables",
+		"id": "local_variables",
+		"sublist": []
+	},
+	{
+		"text": "local_variables_initializer",
+		"id": "local_variables_initializer",
+		"sublist": []
+	},
+	{
+		"text": "log",
+		"id": "log",
+		"sublist": []
+	},
+	{
+		"text": "log1p",
+		"id": "log1p",
+		"sublist": []
+	},
+	{
+		"text": "logical_and",
+		"id": "logical_and",
+		"sublist": []
+	},
+	{
+		"text": "logical_not",
+		"id": "logical_not",
+		"sublist": []
+	},
+	{
+		"text": "logical_or",
+		"id": "logical_or",
+		"sublist": []
+	},
+	{
+		"text": "logical_xor",
+		"id": "logical_xor",
+		"sublist": []
+	},
+	{
+		"text": "make_template",
+		"id": "make_template",
+		"sublist": []
+	},
+	{
+		"text": "map_fn",
+		"id": "map_fn",
+		"sublist": []
+	},
+	{
+		"text": "matching_files",
+		"id": "matching_files",
+		"sublist": []
+	},
+	{
+		"text": "matmul",
+		"id": "matmul",
+		"sublist": []
+	},
+	{
+		"text": "matrix_band_part",
+		"id": "matrix_band_part",
+		"sublist": []
+	},
+	{
+		"text": "matrix_determinant",
+		"id": "matrix_determinant",
+		"sublist": []
+	},
+	{
+		"text": "matrix_diag",
+		"id": "matrix_diag",
+		"sublist": []
+	},
+	{
+		"text": "matrix_diag_part",
+		"id": "matrix_diag_part",
+		"sublist": []
+	},
+	{
+		"text": "matrix_inverse",
+		"id": "matrix_inverse",
+		"sublist": []
+	},
+	{
+		"text": "matrix_set_diag",
+		"id": "matrix_set_diag",
+		"sublist": []
+	},
+	{
+		"text": "matrix_solve",
+		"id": "matrix_solve",
+		"sublist": []
+	},
+	{
+		"text": "matrix_solve_ls",
+		"id": "matrix_solve_ls",
+		"sublist": []
+	},
+	{
+		"text": "matrix_transpose",
+		"id": "matrix_transpose",
+		"sublist": []
+	},
+	{
+		"text": "matrix_triangular_solve",
+		"id": "matrix_triangular_solve",
+		"sublist": []
+	},
+	{
+		"text": "maximum",
+		"id": "maximum",
+		"sublist": []
+	},
+	{
+		"text": "meshgrid",
+		"id": "meshgrid",
+		"sublist": []
+	},
+	{
+		"text": "min_max_variable_partitioner",
+		"id": "min_max_variable_partitioner",
+		"sublist": []
+	},
+	{
+		"text": "minimum",
+		"id": "minimum",
+		"sublist": []
+	},
+	{
+		"text": "mod",
+		"id": "mod",
+		"sublist": []
+	},
+	{
+		"text": "model_variables",
+		"id": "model_variables",
+		"sublist": []
+	},
+	{
+		"text": "moving_average_variables",
+		"id": "moving_average_variables",
+		"sublist": []
+	},
+	{
+		"text": "multinomial",
+		"id": "multinomial",
+		"sublist": []
+	},
+	{
+		"text": "multiply",
+		"id": "multiply",
+		"sublist": []
+	},
+	{
+		"text": "name_scope",
+		"id": "name_scope",
+		"sublist": []
+	},
+	{
+		"text": "negative",
+		"id": "negative",
+		"sublist": []
+	},
+	{
+		"text": "no_op",
+		"id": "no_op",
+		"sublist": []
+	},
+	{
+		"text": "no_regularizer",
+		"id": "no_regularizer",
+		"sublist": []
+	},
+	{
+		"text": "norm",
+		"id": "norm",
+		"sublist": []
+	},
+	{
+		"text": "not_equal",
+		"id": "not_equal",
+		"sublist": []
+	},
+	{
+		"text": "one_hot",
+		"id": "one_hot",
+		"sublist": []
+	},
+	{
+		"text": "ones",
+		"id": "ones",
+		"sublist": []
+	},
+	{
+		"text": "ones_like",
+		"id": "ones_like",
+		"sublist": []
+	},
+	{
+		"text": "op_scope",
+		"id": "op_scope",
+		"sublist": []
+	},
+	{
+		"text": "pad",
+		"id": "pad",
+		"sublist": []
+	},
+	{
+		"text": "parallel_stack",
+		"id": "parallel_stack",
+		"sublist": []
+	},
+	{
+		"text": "parse_example",
+		"id": "parse_example",
+		"sublist": []
+	},
+	{
+		"text": "parse_single_example",
+		"id": "parse_single_example",
+		"sublist": []
+	},
+	{
+		"text": "parse_single_sequence_example",
+		"id": "parse_single_sequence_example",
+		"sublist": []
+	},
+	{
+		"text": "parse_tensor",
+		"id": "parse_tensor",
+		"sublist": []
+	},
+	{
+		"text": "placeholder",
+		"id": "placeholder",
+		"sublist": []
+	},
+	{
+		"text": "placeholder_with_default",
+		"id": "placeholder_with_default",
+		"sublist": []
+	},
+	{
+		"text": "polygamma",
+		"id": "polygamma",
+		"sublist": []
+	},
+	{
+		"text": "pow",
+		"id": "pow",
+		"sublist": []
+	},
+	{
+		"text": "py_func",
+		"id": "py_func",
+		"sublist": []
+	},
+	{
+		"text": "qr",
+		"id": "qr",
+		"sublist": []
+	},
+	{
+		"text": "quantize_v2",
+		"id": "quantize_v2",
+		"sublist": []
+	},
+	{
+		"text": "quantized_concat",
+		"id": "quantized_concat",
+		"sublist": []
+	},
+	{
+		"text": "random_crop",
+		"id": "random_crop",
+		"sublist": []
+	},
+	{
+		"text": "random_gamma",
+		"id": "random_gamma",
+		"sublist": []
+	},
+	{
+		"text": "random_normal",
+		"id": "random_normal",
+		"sublist": []
+	},
+	{
+		"text": "random_shuffle",
+		"id": "random_shuffle",
+		"sublist": []
+	},
+	{
+		"text": "random_uniform",
+		"id": "random_uniform",
+		"sublist": []
+	},
+	{
+		"text": "range",
+		"id": "range",
+		"sublist": []
+	},
+	{
+		"text": "rank",
+		"id": "rank",
+		"sublist": []
+	},
+	{
+		"text": "read_file",
+		"id": "read_file",
+		"sublist": []
+	},
+	{
+		"text": "real",
+		"id": "real",
+		"sublist": []
+	},
+	{
+		"text": "realdiv",
+		"id": "realdiv",
+		"sublist": []
+	},
+	{
+		"text": "reciprocal",
+		"id": "reciprocal",
+		"sublist": []
+	},
+	{
+		"text": "reduce_all",
+		"id": "reduce_all",
+		"sublist": []
+	},
+	{
+		"text": "reduce_any",
+		"id": "reduce_any",
+		"sublist": []
+	},
+	{
+		"text": "reduce_join",
+		"id": "reduce_join",
+		"sublist": []
+	},
+	{
+		"text": "reduce_logsumexp",
+		"id": "reduce_logsumexp",
+		"sublist": []
+	},
+	{
+		"text": "reduce_max",
+		"id": "reduce_max",
+		"sublist": []
+	},
+	{
+		"text": "reduce_mean",
+		"id": "reduce_mean",
+		"sublist": []
+	},
+	{
+		"text": "reduce_min",
+		"id": "reduce_min",
+		"sublist": []
+	},
+	{
+		"text": "reduce_prod",
+		"id": "reduce_prod",
+		"sublist": []
+	},
+	{
+		"text": "reduce_sum",
+		"id": "reduce_sum",
+		"sublist": []
+	},
+	{
+		"text": "register_tensor_conversion_function",
+		"id": "register_tensor_conversion_function",
+		"sublist": []
+	},
+	{
+		"text": "report_uninitialized_variables",
+		"id": "report_uninitialized_variables",
+		"sublist": []
+	},
+	{
+		"text": "required_space_to_batch_paddings",
+		"id": "required_space_to_batch_paddings",
+		"sublist": []
+	},
+	{
+		"text": "reset_default_graph",
+		"id": "reset_default_graph",
+		"sublist": []
+	},
+	{
+		"text": "reshape",
+		"id": "reshape",
+		"sublist": []
+	},
+	{
+		"text": "reverse",
+		"id": "reverse",
+		"sublist": []
+	},
+	{
+		"text": "reverse_sequence",
+		"id": "reverse_sequence",
+		"sublist": []
+	},
+	{
+		"text": "reverse_v2",
+		"id": "reverse_v2",
+		"sublist": []
+	},
+	{
+		"text": "rint",
+		"id": "rint",
+		"sublist": []
+	},
+	{
+		"text": "round",
+		"id": "round",
+		"sublist": []
+	},
+	{
+		"text": "rsqrt",
+		"id": "rsqrt",
+		"sublist": []
+	},
+	{
+		"text": "saturate_cast",
+		"id": "saturate_cast",
+		"sublist": []
+	},
+	{
+		"text": "scalar_mul",
+		"id": "scalar_mul",
+		"sublist": []
+	},
+	{
+		"text": "scan",
+		"id": "scan",
+		"sublist": []
+	},
+	{
+		"text": "scatter_add",
+		"id": "scatter_add",
+		"sublist": []
+	},
+	{
+		"text": "scatter_div",
+		"id": "scatter_div",
+		"sublist": []
+	},
+	{
+		"text": "scatter_mul",
+		"id": "scatter_mul",
+		"sublist": []
+	},
+	{
+		"text": "scatter_nd",
+		"id": "scatter_nd",
+		"sublist": []
+	},
+	{
+		"text": "scatter_nd_add",
+		"id": "scatter_nd_add",
+		"sublist": []
+	},
+	{
+		"text": "scatter_nd_sub",
+		"id": "scatter_nd_sub",
+		"sublist": []
+	},
+	{
+		"text": "scatter_nd_update",
+		"id": "scatter_nd_update",
+		"sublist": []
+	},
+	{
+		"text": "scatter_sub",
+		"id": "scatter_sub",
+		"sublist": []
+	},
+	{
+		"text": "scatter_update",
+		"id": "scatter_update",
+		"sublist": []
+	},
+	{
+		"text": "segment_max",
+		"id": "segment_max",
+		"sublist": []
+	},
+	{
+		"text": "segment_mean",
+		"id": "segment_mean",
+		"sublist": []
+	},
+	{
+		"text": "segment_min",
+		"id": "segment_min",
+		"sublist": []
+	},
+	{
+		"text": "segment_prod",
+		"id": "segment_prod",
+		"sublist": []
+	},
+	{
+		"text": "segment_sum",
+		"id": "segment_sum",
+		"sublist": []
+	},
+	{
+		"text": "self_adjoint_eig",
+		"id": "self_adjoint_eig",
+		"sublist": []
+	},
+	{
+		"text": "self_adjoint_eigvals",
+		"id": "self_adjoint_eigvals",
+		"sublist": []
+	},
+	{
+		"text": "sequence_mask",
+		"id": "sequence_mask",
+		"sublist": []
+	},
+	{
+		"text": "serialize_many_sparse",
+		"id": "serialize_many_sparse",
+		"sublist": []
+	},
+	{
+		"text": "serialize_sparse",
+		"id": "serialize_sparse",
+		"sublist": []
+	},
+	{
+		"text": "set_random_seed",
+		"id": "set_random_seed",
+		"sublist": []
+	},
+	{
+		"text": "setdiff1d",
+		"id": "setdiff1d",
+		"sublist": []
+	},
+	{
+		"text": "shape",
+		"id": "shape",
+		"sublist": []
+	},
+	{
+		"text": "shape_n",
+		"id": "shape_n",
+		"sublist": []
+	},
+	{
+		"text": "sigmoid",
+		"id": "sigmoid",
+		"sublist": []
+	},
+	{
+		"text": "sign",
+		"id": "sign",
+		"sublist": []
+	},
+	{
+		"text": "sin",
+		"id": "sin",
+		"sublist": []
+	},
+	{
+		"text": "size",
+		"id": "size",
+		"sublist": []
+	},
+	{
+		"text": "slice",
+		"id": "slice",
+		"sublist": []
+	},
+	{
+		"text": "space_to_batch",
+		"id": "space_to_batch",
+		"sublist": []
+	},
+	{
+		"text": "space_to_batch_nd",
+		"id": "space_to_batch_nd",
+		"sublist": []
+	},
+	{
+		"text": "space_to_depth",
+		"id": "space_to_depth",
+		"sublist": []
+	},
+	{
+		"text": "sparse_add",
+		"id": "sparse_add",
+		"sublist": []
+	},
+	{
+		"text": "sparse_concat",
+		"id": "sparse_concat",
+		"sublist": []
+	},
+	{
+		"text": "sparse_fill_empty_rows",
+		"id": "sparse_fill_empty_rows",
+		"sublist": []
+	},
+	{
+		"text": "sparse_mask",
+		"id": "sparse_mask",
+		"sublist": []
+	},
+	{
+		"text": "sparse_matmul",
+		"id": "sparse_matmul",
+		"sublist": []
+	},
+	{
+		"text": "sparse_maximum",
+		"id": "sparse_maximum",
+		"sublist": []
+	},
+	{
+		"text": "sparse_merge",
+		"id": "sparse_merge",
+		"sublist": []
+	},
+	{
+		"text": "sparse_minimum",
+		"id": "sparse_minimum",
+		"sublist": []
+	},
+	{
+		"text": "sparse_placeholder",
+		"id": "sparse_placeholder",
+		"sublist": []
+	},
+	{
+		"text": "sparse_reduce_sum",
+		"id": "sparse_reduce_sum",
+		"sublist": []
+	},
+	{
+		"text": "sparse_reduce_sum_sparse",
+		"id": "sparse_reduce_sum_sparse",
+		"sublist": []
+	},
+	{
+		"text": "sparse_reorder",
+		"id": "sparse_reorder",
+		"sublist": []
+	},
+	{
+		"text": "sparse_reset_shape",
+		"id": "sparse_reset_shape",
+		"sublist": []
+	},
+	{
+		"text": "sparse_reshape",
+		"id": "sparse_reshape",
+		"sublist": []
+	},
+	{
+		"text": "sparse_retain",
+		"id": "sparse_retain",
+		"sublist": []
+	},
+	{
+		"text": "sparse_segment_mean",
+		"id": "sparse_segment_mean",
+		"sublist": []
+	},
+	{
+		"text": "sparse_segment_sqrt_n",
+		"id": "sparse_segment_sqrt_n",
+		"sublist": []
+	},
+	{
+		"text": "sparse_segment_sum",
+		"id": "sparse_segment_sum",
+		"sublist": []
+	},
+	{
+		"text": "sparse_softmax",
+		"id": "sparse_softmax",
+		"sublist": []
+	},
+	{
+		"text": "sparse_split",
+		"id": "sparse_split",
+		"sublist": []
+	},
+	{
+		"text": "sparse_tensor_dense_matmul",
+		"id": "sparse_tensor_dense_matmul",
+		"sublist": []
+	},
+	{
+		"text": "sparse_tensor_to_dense",
+		"id": "sparse_tensor_to_dense",
+		"sublist": []
+	},
+	{
+		"text": "sparse_to_dense",
+		"id": "sparse_to_dense",
+		"sublist": []
+	},
+	{
+		"text": "sparse_to_indicator",
+		"id": "sparse_to_indicator",
+		"sublist": []
+	},
+	{
+		"text": "sparse_transpose",
+		"id": "sparse_transpose",
+		"sublist": []
+	},
+	{
+		"text": "split",
+		"id": "split",
+		"sublist": []
+	},
+	{
+		"text": "sqrt",
+		"id": "sqrt",
+		"sublist": []
+	},
+	{
+		"text": "square",
+		"id": "square",
+		"sublist": []
+	},
+	{
+		"text": "squared_difference",
+		"id": "squared_difference",
+		"sublist": []
+	},
+	{
+		"text": "squeeze",
+		"id": "squeeze",
+		"sublist": []
+	},
+	{
+		"text": "stack",
+		"id": "stack",
+		"sublist": []
+	},
+	{
+		"text": "stop_gradient",
+		"id": "stop_gradient",
+		"sublist": []
+	},
+	{
+		"text": "strided_slice",
+		"id": "strided_slice",
+		"sublist": []
+	},
+	{
+		"text": "string_join",
+		"id": "string_join",
+		"sublist": []
+	},
+	{
+		"text": "string_split",
+		"id": "string_split",
+		"sublist": []
+	},
+	{
+		"text": "string_to_hash_bucket",
+		"id": "string_to_hash_bucket",
+		"sublist": []
+	},
+	{
+		"text": "string_to_hash_bucket_fast",
+		"id": "string_to_hash_bucket_fast",
+		"sublist": []
+	},
+	{
+		"text": "string_to_hash_bucket_strong",
+		"id": "string_to_hash_bucket_strong",
+		"sublist": []
+	},
+	{
+		"text": "string_to_number",
+		"id": "string_to_number",
+		"sublist": []
+	},
+	{
+		"text": "substr",
+		"id": "substr",
+		"sublist": []
+	},
+	{
+		"text": "subtract",
+		"id": "subtract",
+		"sublist": []
+	},
+	{
+		"text": "svd",
+		"id": "svd",
+		"sublist": []
+	},
+	{
+		"text": "tables_initializer",
+		"id": "tables_initializer",
+		"sublist": []
+	},
+	{
+		"text": "tan",
+		"id": "tan",
+		"sublist": []
+	},
+	{
+		"text": "tanh",
+		"id": "tanh",
+		"sublist": []
+	},
+	{
+		"text": "tensordot",
+		"id": "tensordot",
+		"sublist": []
+	},
+	{
+		"text": "tile",
+		"id": "tile",
+		"sublist": []
+	},
+	{
+		"text": "to_bfloat16",
+		"id": "to_bfloat16",
+		"sublist": []
+	},
+	{
+		"text": "to_double",
+		"id": "to_double",
+		"sublist": []
+	},
+	{
+		"text": "to_float",
+		"id": "to_float",
+		"sublist": []
+	},
+	{
+		"text": "to_int32",
+		"id": "to_int32",
+		"sublist": []
+	},
+	{
+		"text": "to_int64",
+		"id": "to_int64",
+		"sublist": []
+	},
+	{
+		"text": "trace",
+		"id": "trace",
+		"sublist": []
+	},
+	{
+		"text": "trainable_variables",
+		"id": "trainable_variables",
+		"sublist": []
+	},
+	{
+		"text": "transpose",
+		"id": "transpose",
+		"sublist": []
+	},
+	{
+		"text": "truediv",
+		"id": "truediv",
+		"sublist": []
+	},
+	{
+		"text": "truncated_normal",
+		"id": "truncated_normal",
+		"sublist": []
+	},
+	{
+		"text": "truncatediv",
+		"id": "truncatediv",
+		"sublist": []
+	},
+	{
+		"text": "truncatemod",
+		"id": "truncatemod",
+		"sublist": []
+	},
+	{
+		"text": "tuple",
+		"id": "tuple",
+		"sublist": []
+	},
+	{
+		"text": "unique",
+		"id": "unique",
+		"sublist": []
+	},
+	{
+		"text": "unique_with_counts",
+		"id": "unique_with_counts",
+		"sublist": []
+	},
+	{
+		"text": "unsorted_segment_sum",
+		"id": "unsorted_segment_sum",
+		"sublist": []
+	},
+	{
+		"text": "unstack",
+		"id": "unstack",
+		"sublist": []
+	},
+	{
+		"text": "variable_axis_size_partitioner",
+		"id": "variable_axis_size_partitioner",
+		"sublist": []
+	},
+	{
+		"text": "variable_op_scope",
+		"id": "variable_op_scope",
+		"sublist": []
+	},
+	{
+		"text": "variable_scope",
+		"id": "variable_scope",
+		"sublist": []
+	},
+	{
+		"text": "variables_initializer",
+		"id": "variables_initializer",
+		"sublist": []
+	},
+	{
+		"text": "verify_tensor_all_finite",
+		"id": "verify_tensor_all_finite",
+		"sublist": []
+	},
+	{
+		"text": "where",
+		"id": "where",
+		"sublist": []
+	},
+	{
+		"text": "while_loop",
+		"id": "while_loop",
+		"sublist": []
+	},
+	{
+		"text": "write_file",
+		"id": "write_file",
+		"sublist": []
+	},
+	{
+		"text": "zeros",
+		"id": "zeros",
+		"sublist": []
+	},
+	{
+		"text": "zeros_like",
+		"id": "zeros_like",
+		"sublist": []
+	},
+	{
+		"text": "zeta",
+		"id": "zeta",
+		"sublist": []
+	}
+]
