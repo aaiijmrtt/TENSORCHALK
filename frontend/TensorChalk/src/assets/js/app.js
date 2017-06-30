@@ -3,6 +3,5 @@ $(document).ready(function(){
     $("#index-body-div, #api-elems").css({
         height: dH
     });
-    console.log(dH);
 });
 $(document).foundation();

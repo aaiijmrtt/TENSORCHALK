@@ -51,25 +51,7 @@ $darkest-fg: #7a8c9e;
     }
 }
 
-#sidebar {
-    background-color: $light-bg;
-
-    li {
-        padding: 0.85em 0em;
-        margin: 0.15em 0em;
-
-        a {
-            color: $light-fg;
-            border-bottom: 2px solid $light-bg;
-        }
-
-        :hover {
-            border-bottom: 2px solid $lightest-fg;
-        }
-    }
-}
-
-#api-elems {
+#sidebar, #api-elems {
     background-color: $light-bg;
     overflow: auto;
 
@@ -79,14 +61,18 @@ $darkest-fg: #7a8c9e;
         li {
             padding: 0.1em 0em;
             margin: 0.1em 0em;
+            border-bottom: 2px solid $light-bg;
 
             a {
                 color:  $light-fg;
-                border-bottom: 2px solid $light-bg;
             }
         }
         li:hover {
             border-bottom: 2px solid $lightest-fg;
         }
     }
+}
+
+#sidebar {
+    height: 100%;
 }
