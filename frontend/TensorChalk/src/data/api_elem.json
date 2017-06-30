@@ -1,67 +1,67 @@
 [
 	{
 		"text": "app",
-		"id": "app",
+		"id": "app.tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "compat",
-		"id": "compat",
+		"id": "compat.tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "core",
-		"id": "core",
+		"id": "core.tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "errors",
-		"id": "errors",
+		"id": "errors.tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "flags",
-		"id": "flags",
+		"id": "flags.tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "gfile",
-		"id": "gfile",
+		"id": "gfile.tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "graph_util",
-		"id": "graph_util",
+		"id": "graph_util.tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "image",
-		"id": "image",
+		"id": "image.tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "layers",
-		"id": "layers",
+		"id": "layers.tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "logging",
-		"id": "logging",
+		"id": "logging.tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "losses",
-		"id": "losses",
+		"id": "losses.tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "metrics",
-		"id": "metrics",
+		"id": "metrics.tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "nn",
-		"id": "nn",
+		"id": "nn.tensorflow.",
 		"sublist":
 			[{
 				"text": "_ctc_ops",
@@ -406,1867 +406,1867 @@
 	},
 	{
 		"text": "python",
-		"id": "python",
+		"id": "pythontensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "python_io",
-		"id": "python_io",
+		"id": "python_iotensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "pywrap_tensorflow",
-		"id": "pywrap_tensorflow",
+		"id": "pywrap_tensorflowtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "resource_loader",
-		"id": "resource_loader",
+		"id": "resource_loadertensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "saved_model",
-		"id": "saved_model",
+		"id": "saved_modeltensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sdca",
-		"id": "sdca",
+		"id": "sdcatensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sets",
-		"id": "sets",
+		"id": "setstensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "summary",
-		"id": "summary",
+		"id": "summarytensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sysconfig",
-		"id": "sysconfig",
+		"id": "sysconfigtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "test",
-		"id": "test",
+		"id": "testtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "train",
-		"id": "train",
+		"id": "traintensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "user_ops",
-		"id": "user_ops",
+		"id": "user_opstensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "Assert",
-		"id": "Assert",
+		"id": "Asserttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "NoGradient",
-		"id": "NoGradient",
+		"id": "NoGradienttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "NotDifferentiable",
-		"id": "NotDifferentiable",
+		"id": "NotDifferentiabletensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "Print",
-		"id": "Print",
+		"id": "Printtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "abs",
-		"id": "abs",
+		"id": "abstensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "accumulate_n",
-		"id": "accumulate_n",
+		"id": "accumulate_ntensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "acos",
-		"id": "acos",
+		"id": "acostensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "add",
-		"id": "add",
+		"id": "addtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "add_check_numerics_ops",
-		"id": "add_check_numerics_ops",
+		"id": "add_check_numerics_opstensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "add_n",
-		"id": "add_n",
+		"id": "add_ntensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "add_to_collection",
-		"id": "add_to_collection",
+		"id": "add_to_collectiontensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "all_variables",
-		"id": "all_variables",
+		"id": "all_variablestensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "arg_max",
-		"id": "arg_max",
+		"id": "arg_maxtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "arg_min",
-		"id": "arg_min",
+		"id": "arg_mintensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "argmax",
-		"id": "argmax",
+		"id": "argmaxtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "argmin",
-		"id": "argmin",
+		"id": "argmintensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "as_dtype",
-		"id": "as_dtype",
+		"id": "as_dtypetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "as_string",
-		"id": "as_string",
+		"id": "as_stringtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "asin",
-		"id": "asin",
+		"id": "asintensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "assert_equal",
-		"id": "assert_equal",
+		"id": "assert_equaltensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "assert_greater",
-		"id": "assert_greater",
+		"id": "assert_greatertensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "assert_greater_equal",
-		"id": "assert_greater_equal",
+		"id": "assert_greater_equaltensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "assert_integer",
-		"id": "assert_integer",
+		"id": "assert_integertensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "assert_less",
-		"id": "assert_less",
+		"id": "assert_lesstensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "assert_less_equal",
-		"id": "assert_less_equal",
+		"id": "assert_less_equaltensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "assert_negative",
-		"id": "assert_negative",
+		"id": "assert_negativetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "assert_non_negative",
-		"id": "assert_non_negative",
+		"id": "assert_non_negativetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "assert_non_positive",
-		"id": "assert_non_positive",
+		"id": "assert_non_positivetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "assert_positive",
-		"id": "assert_positive",
+		"id": "assert_positivetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "assert_proper_iterable",
-		"id": "assert_proper_iterable",
+		"id": "assert_proper_iterabletensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "assert_rank",
-		"id": "assert_rank",
+		"id": "assert_ranktensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "assert_rank_at_least",
-		"id": "assert_rank_at_least",
+		"id": "assert_rank_at_leasttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "assert_type",
-		"id": "assert_type",
+		"id": "assert_typetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "assert_variables_initialized",
-		"id": "assert_variables_initialized",
+		"id": "assert_variables_initializedtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "assign",
-		"id": "assign",
+		"id": "assigntensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "assign_add",
-		"id": "assign_add",
+		"id": "assign_addtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "assign_sub",
-		"id": "assign_sub",
+		"id": "assign_subtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "atan",
-		"id": "atan",
+		"id": "atantensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "batch_to_space",
-		"id": "batch_to_space",
+		"id": "batch_to_spacetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "batch_to_space_nd",
-		"id": "batch_to_space_nd",
+		"id": "batch_to_space_ndtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "betainc",
-		"id": "betainc",
+		"id": "betainctensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "bitcast",
-		"id": "bitcast",
+		"id": "bitcasttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "boolean_mask",
-		"id": "boolean_mask",
+		"id": "boolean_masktensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "broadcast_dynamic_shape",
-		"id": "broadcast_dynamic_shape",
+		"id": "broadcast_dynamic_shapetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "broadcast_static_shape",
-		"id": "broadcast_static_shape",
+		"id": "broadcast_static_shapetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "case",
-		"id": "case",
+		"id": "casetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "cast",
-		"id": "cast",
+		"id": "casttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "ceil",
-		"id": "ceil",
+		"id": "ceiltensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "check_numerics",
-		"id": "check_numerics",
+		"id": "check_numericstensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "cholesky",
-		"id": "cholesky",
+		"id": "choleskytensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "cholesky_solve",
-		"id": "cholesky_solve",
+		"id": "cholesky_solvetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "clip_by_average_norm",
-		"id": "clip_by_average_norm",
+		"id": "clip_by_average_normtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "clip_by_global_norm",
-		"id": "clip_by_global_norm",
+		"id": "clip_by_global_normtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "clip_by_norm",
-		"id": "clip_by_norm",
+		"id": "clip_by_normtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "clip_by_value",
-		"id": "clip_by_value",
+		"id": "clip_by_valuetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "complex",
-		"id": "complex",
+		"id": "complextensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "concat",
-		"id": "concat",
+		"id": "concattensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "cond",
-		"id": "cond",
+		"id": "condtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "confusion_matrix",
-		"id": "confusion_matrix",
+		"id": "confusion_matrixtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "conj",
-		"id": "conj",
+		"id": "conjtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "constant",
-		"id": "constant",
+		"id": "constanttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "container",
-		"id": "container",
+		"id": "containertensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "control_dependencies",
-		"id": "control_dependencies",
+		"id": "control_dependenciestensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "convert_to_tensor",
-		"id": "convert_to_tensor",
+		"id": "convert_to_tensortensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "convert_to_tensor_or_indexed_slices",
-		"id": "convert_to_tensor_or_indexed_slices",
+		"id": "convert_to_tensor_or_indexed_slicestensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "convert_to_tensor_or_sparse_tensor",
-		"id": "convert_to_tensor_or_sparse_tensor",
+		"id": "convert_to_tensor_or_sparse_tensortensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "cos",
-		"id": "cos",
+		"id": "costensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "count_nonzero",
-		"id": "count_nonzero",
+		"id": "count_nonzerotensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "count_up_to",
-		"id": "count_up_to",
+		"id": "count_up_totensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "create_partitioned_variables",
-		"id": "create_partitioned_variables",
+		"id": "create_partitioned_variablestensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "cross",
-		"id": "cross",
+		"id": "crosstensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "cumprod",
-		"id": "cumprod",
+		"id": "cumprodtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "cumsum",
-		"id": "cumsum",
+		"id": "cumsumtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "decode_base64",
-		"id": "decode_base64",
+		"id": "decode_base64tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "decode_csv",
-		"id": "decode_csv",
+		"id": "decode_csvtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "decode_json_example",
-		"id": "decode_json_example",
+		"id": "decode_json_exampletensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "decode_raw",
-		"id": "decode_raw",
+		"id": "decode_rawtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "delete_session_tensor",
-		"id": "delete_session_tensor",
+		"id": "delete_session_tensortensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "depth_to_space",
-		"id": "depth_to_space",
+		"id": "depth_to_spacetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "dequantize",
-		"id": "dequantize",
+		"id": "dequantizetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "deserialize_many_sparse",
-		"id": "deserialize_many_sparse",
+		"id": "deserialize_many_sparsetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "device",
-		"id": "device",
+		"id": "devicetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "diag",
-		"id": "diag",
+		"id": "diagtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "diag_part",
-		"id": "diag_part",
+		"id": "diag_parttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "digamma",
-		"id": "digamma",
+		"id": "digammatensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "div",
-		"id": "div",
+		"id": "divtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "divide",
-		"id": "divide",
+		"id": "dividetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "dynamic_partition",
-		"id": "dynamic_partition",
+		"id": "dynamic_partitiontensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "dynamic_stitch",
-		"id": "dynamic_stitch",
+		"id": "dynamic_stitchtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "edit_distance",
-		"id": "edit_distance",
+		"id": "edit_distancetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "einsum",
-		"id": "einsum",
+		"id": "einsumtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "encode_base64",
-		"id": "encode_base64",
+		"id": "encode_base64tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "equal",
-		"id": "equal",
+		"id": "equaltensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "erf",
-		"id": "erf",
+		"id": "erftensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "erfc",
-		"id": "erfc",
+		"id": "erfctensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "exp",
-		"id": "exp",
+		"id": "exptensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "expand_dims",
-		"id": "expand_dims",
+		"id": "expand_dimstensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "expm1",
-		"id": "expm1",
+		"id": "expm1tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "extract_image_patches",
-		"id": "extract_image_patches",
+		"id": "extract_image_patchestensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "eye",
-		"id": "eye",
+		"id": "eyetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "fake_quant_with_min_max_args",
-		"id": "fake_quant_with_min_max_args",
+		"id": "fake_quant_with_min_max_argstensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "fake_quant_with_min_max_args_gradient",
-		"id": "fake_quant_with_min_max_args_gradient",
+		"id": "fake_quant_with_min_max_args_gradienttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "fake_quant_with_min_max_vars",
-		"id": "fake_quant_with_min_max_vars",
+		"id": "fake_quant_with_min_max_varstensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "fake_quant_with_min_max_vars_gradient",
-		"id": "fake_quant_with_min_max_vars_gradient",
+		"id": "fake_quant_with_min_max_vars_gradienttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "fake_quant_with_min_max_vars_per_channel",
-		"id": "fake_quant_with_min_max_vars_per_channel",
+		"id": "fake_quant_with_min_max_vars_per_channeltensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "fake_quant_with_min_max_vars_per_channel_gradient",
-		"id": "fake_quant_with_min_max_vars_per_channel_gradient",
+		"id": "fake_quant_with_min_max_vars_per_channel_gradienttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "fft",
-		"id": "fft",
+		"id": "ffttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "fft2d",
-		"id": "fft2d",
+		"id": "fft2dtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "fft3d",
-		"id": "fft3d",
+		"id": "fft3dtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "fill",
-		"id": "fill",
+		"id": "filltensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "fixed_size_partitioner",
-		"id": "fixed_size_partitioner",
+		"id": "fixed_size_partitionertensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "floor",
-		"id": "floor",
+		"id": "floortensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "floor_div",
-		"id": "floor_div",
+		"id": "floor_divtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "floordiv",
-		"id": "floordiv",
+		"id": "floordivtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "floormod",
-		"id": "floormod",
+		"id": "floormodtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "foldl",
-		"id": "foldl",
+		"id": "foldltensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "foldr",
-		"id": "foldr",
+		"id": "foldrtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "gather",
-		"id": "gather",
+		"id": "gathertensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "gather_nd",
-		"id": "gather_nd",
+		"id": "gather_ndtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "get_collection",
-		"id": "get_collection",
+		"id": "get_collectiontensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "get_collection_ref",
-		"id": "get_collection_ref",
+		"id": "get_collection_reftensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "get_default_graph",
-		"id": "get_default_graph",
+		"id": "get_default_graphtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "get_default_session",
-		"id": "get_default_session",
+		"id": "get_default_sessiontensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "get_local_variable",
-		"id": "get_local_variable",
+		"id": "get_local_variabletensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "get_seed",
-		"id": "get_seed",
+		"id": "get_seedtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "get_session_handle",
-		"id": "get_session_handle",
+		"id": "get_session_handletensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "get_session_tensor",
-		"id": "get_session_tensor",
+		"id": "get_session_tensortensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "get_variable",
-		"id": "get_variable",
+		"id": "get_variabletensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "get_variable_scope",
-		"id": "get_variable_scope",
+		"id": "get_variable_scopetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "global_norm",
-		"id": "global_norm",
+		"id": "global_normtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "global_variables",
-		"id": "global_variables",
+		"id": "global_variablestensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "global_variables_initializer",
-		"id": "global_variables_initializer",
+		"id": "global_variables_initializertensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "gradients",
-		"id": "gradients",
+		"id": "gradientstensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "greater",
-		"id": "greater",
+		"id": "greatertensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "greater_equal",
-		"id": "greater_equal",
+		"id": "greater_equaltensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "group",
-		"id": "group",
+		"id": "grouptensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "hessians",
-		"id": "hessians",
+		"id": "hessianstensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "histogram_fixed_width",
-		"id": "histogram_fixed_width",
+		"id": "histogram_fixed_widthtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "identity",
-		"id": "identity",
+		"id": "identitytensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "ifft",
-		"id": "ifft",
+		"id": "iffttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "ifft2d",
-		"id": "ifft2d",
+		"id": "ifft2dtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "ifft3d",
-		"id": "ifft3d",
+		"id": "ifft3dtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "igamma",
-		"id": "igamma",
+		"id": "igammatensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "igammac",
-		"id": "igammac",
+		"id": "igammactensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "imag",
-		"id": "imag",
+		"id": "imagtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "import_graph_def",
-		"id": "import_graph_def",
+		"id": "import_graph_deftensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "initialize_all_tables",
-		"id": "initialize_all_tables",
+		"id": "initialize_all_tablestensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "initialize_all_variables",
-		"id": "initialize_all_variables",
+		"id": "initialize_all_variablestensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "initialize_local_variables",
-		"id": "initialize_local_variables",
+		"id": "initialize_local_variablestensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "initialize_variables",
-		"id": "initialize_variables",
+		"id": "initialize_variablestensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "invert_permutation",
-		"id": "invert_permutation",
+		"id": "invert_permutationtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "is_finite",
-		"id": "is_finite",
+		"id": "is_finitetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "is_inf",
-		"id": "is_inf",
+		"id": "is_inftensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "is_nan",
-		"id": "is_nan",
+		"id": "is_nantensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "is_non_decreasing",
-		"id": "is_non_decreasing",
+		"id": "is_non_decreasingtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "is_numeric_tensor",
-		"id": "is_numeric_tensor",
+		"id": "is_numeric_tensortensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "is_strictly_increasing",
-		"id": "is_strictly_increasing",
+		"id": "is_strictly_increasingtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "is_variable_initialized",
-		"id": "is_variable_initialized",
+		"id": "is_variable_initializedtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "lbeta",
-		"id": "lbeta",
+		"id": "lbetatensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "less",
-		"id": "less",
+		"id": "lesstensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "less_equal",
-		"id": "less_equal",
+		"id": "less_equaltensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "lgamma",
-		"id": "lgamma",
+		"id": "lgammatensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "lin_space",
-		"id": "lin_space",
+		"id": "lin_spacetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "linspace",
-		"id": "linspace",
+		"id": "linspacetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "load_file_system_library",
-		"id": "load_file_system_library",
+		"id": "load_file_system_librarytensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "load_op_library",
-		"id": "load_op_library",
+		"id": "load_op_librarytensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "local_variables",
-		"id": "local_variables",
+		"id": "local_variablestensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "local_variables_initializer",
-		"id": "local_variables_initializer",
+		"id": "local_variables_initializertensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "log",
-		"id": "log",
+		"id": "logtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "log1p",
-		"id": "log1p",
+		"id": "log1ptensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "logical_and",
-		"id": "logical_and",
+		"id": "logical_andtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "logical_not",
-		"id": "logical_not",
+		"id": "logical_nottensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "logical_or",
-		"id": "logical_or",
+		"id": "logical_ortensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "logical_xor",
-		"id": "logical_xor",
+		"id": "logical_xortensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "make_template",
-		"id": "make_template",
+		"id": "make_templatetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "map_fn",
-		"id": "map_fn",
+		"id": "map_fntensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "matching_files",
-		"id": "matching_files",
+		"id": "matching_filestensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "matmul",
-		"id": "matmul",
+		"id": "matmultensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "matrix_band_part",
-		"id": "matrix_band_part",
+		"id": "matrix_band_parttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "matrix_determinant",
-		"id": "matrix_determinant",
+		"id": "matrix_determinanttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "matrix_diag",
-		"id": "matrix_diag",
+		"id": "matrix_diagtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "matrix_diag_part",
-		"id": "matrix_diag_part",
+		"id": "matrix_diag_parttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "matrix_inverse",
-		"id": "matrix_inverse",
+		"id": "matrix_inversetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "matrix_set_diag",
-		"id": "matrix_set_diag",
+		"id": "matrix_set_diagtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "matrix_solve",
-		"id": "matrix_solve",
+		"id": "matrix_solvetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "matrix_solve_ls",
-		"id": "matrix_solve_ls",
+		"id": "matrix_solve_lstensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "matrix_transpose",
-		"id": "matrix_transpose",
+		"id": "matrix_transposetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "matrix_triangular_solve",
-		"id": "matrix_triangular_solve",
+		"id": "matrix_triangular_solvetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "maximum",
-		"id": "maximum",
+		"id": "maximumtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "meshgrid",
-		"id": "meshgrid",
+		"id": "meshgridtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "min_max_variable_partitioner",
-		"id": "min_max_variable_partitioner",
+		"id": "min_max_variable_partitionertensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "minimum",
-		"id": "minimum",
+		"id": "minimumtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "mod",
-		"id": "mod",
+		"id": "modtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "model_variables",
-		"id": "model_variables",
+		"id": "model_variablestensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "moving_average_variables",
-		"id": "moving_average_variables",
+		"id": "moving_average_variablestensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "multinomial",
-		"id": "multinomial",
+		"id": "multinomialtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "multiply",
-		"id": "multiply",
+		"id": "multiplytensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "name_scope",
-		"id": "name_scope",
+		"id": "name_scopetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "negative",
-		"id": "negative",
+		"id": "negativetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "no_op",
-		"id": "no_op",
+		"id": "no_optensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "no_regularizer",
-		"id": "no_regularizer",
+		"id": "no_regularizertensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "norm",
-		"id": "norm",
+		"id": "normtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "not_equal",
-		"id": "not_equal",
+		"id": "not_equaltensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "one_hot",
-		"id": "one_hot",
+		"id": "one_hottensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "ones",
-		"id": "ones",
+		"id": "onestensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "ones_like",
-		"id": "ones_like",
+		"id": "ones_liketensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "op_scope",
-		"id": "op_scope",
+		"id": "op_scopetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "pad",
-		"id": "pad",
+		"id": "padtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "parallel_stack",
-		"id": "parallel_stack",
+		"id": "parallel_stacktensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "parse_example",
-		"id": "parse_example",
+		"id": "parse_exampletensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "parse_single_example",
-		"id": "parse_single_example",
+		"id": "parse_single_exampletensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "parse_single_sequence_example",
-		"id": "parse_single_sequence_example",
+		"id": "parse_single_sequence_exampletensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "parse_tensor",
-		"id": "parse_tensor",
+		"id": "parse_tensortensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "placeholder",
-		"id": "placeholder",
+		"id": "placeholdertensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "placeholder_with_default",
-		"id": "placeholder_with_default",
+		"id": "placeholder_with_defaulttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "polygamma",
-		"id": "polygamma",
+		"id": "polygammatensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "pow",
-		"id": "pow",
+		"id": "powtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "py_func",
-		"id": "py_func",
+		"id": "py_functensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "qr",
-		"id": "qr",
+		"id": "qrtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "quantize_v2",
-		"id": "quantize_v2",
+		"id": "quantize_v2tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "quantized_concat",
-		"id": "quantized_concat",
+		"id": "quantized_concattensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "random_crop",
-		"id": "random_crop",
+		"id": "random_croptensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "random_gamma",
-		"id": "random_gamma",
+		"id": "random_gammatensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "random_normal",
-		"id": "random_normal",
+		"id": "random_normaltensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "random_shuffle",
-		"id": "random_shuffle",
+		"id": "random_shuffletensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "random_uniform",
-		"id": "random_uniform",
+		"id": "random_uniformtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "range",
-		"id": "range",
+		"id": "rangetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "rank",
-		"id": "rank",
+		"id": "ranktensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "read_file",
-		"id": "read_file",
+		"id": "read_filetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "real",
-		"id": "real",
+		"id": "realtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "realdiv",
-		"id": "realdiv",
+		"id": "realdivtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "reciprocal",
-		"id": "reciprocal",
+		"id": "reciprocaltensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "reduce_all",
-		"id": "reduce_all",
+		"id": "reduce_alltensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "reduce_any",
-		"id": "reduce_any",
+		"id": "reduce_anytensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "reduce_join",
-		"id": "reduce_join",
+		"id": "reduce_jointensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "reduce_logsumexp",
-		"id": "reduce_logsumexp",
+		"id": "reduce_logsumexptensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "reduce_max",
-		"id": "reduce_max",
+		"id": "reduce_maxtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "reduce_mean",
-		"id": "reduce_mean",
+		"id": "reduce_meantensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "reduce_min",
-		"id": "reduce_min",
+		"id": "reduce_mintensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "reduce_prod",
-		"id": "reduce_prod",
+		"id": "reduce_prodtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "reduce_sum",
-		"id": "reduce_sum",
+		"id": "reduce_sumtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "register_tensor_conversion_function",
-		"id": "register_tensor_conversion_function",
+		"id": "register_tensor_conversion_functiontensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "report_uninitialized_variables",
-		"id": "report_uninitialized_variables",
+		"id": "report_uninitialized_variablestensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "required_space_to_batch_paddings",
-		"id": "required_space_to_batch_paddings",
+		"id": "required_space_to_batch_paddingstensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "reset_default_graph",
-		"id": "reset_default_graph",
+		"id": "reset_default_graphtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "reshape",
-		"id": "reshape",
+		"id": "reshapetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "reverse",
-		"id": "reverse",
+		"id": "reversetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "reverse_sequence",
-		"id": "reverse_sequence",
+		"id": "reverse_sequencetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "reverse_v2",
-		"id": "reverse_v2",
+		"id": "reverse_v2tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "rint",
-		"id": "rint",
+		"id": "rinttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "round",
-		"id": "round",
+		"id": "roundtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "rsqrt",
-		"id": "rsqrt",
+		"id": "rsqrttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "saturate_cast",
-		"id": "saturate_cast",
+		"id": "saturate_casttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "scalar_mul",
-		"id": "scalar_mul",
+		"id": "scalar_multensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "scan",
-		"id": "scan",
+		"id": "scantensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "scatter_add",
-		"id": "scatter_add",
+		"id": "scatter_addtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "scatter_div",
-		"id": "scatter_div",
+		"id": "scatter_divtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "scatter_mul",
-		"id": "scatter_mul",
+		"id": "scatter_multensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "scatter_nd",
-		"id": "scatter_nd",
+		"id": "scatter_ndtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "scatter_nd_add",
-		"id": "scatter_nd_add",
+		"id": "scatter_nd_addtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "scatter_nd_sub",
-		"id": "scatter_nd_sub",
+		"id": "scatter_nd_subtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "scatter_nd_update",
-		"id": "scatter_nd_update",
+		"id": "scatter_nd_updatetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "scatter_sub",
-		"id": "scatter_sub",
+		"id": "scatter_subtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "scatter_update",
-		"id": "scatter_update",
+		"id": "scatter_updatetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "segment_max",
-		"id": "segment_max",
+		"id": "segment_maxtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "segment_mean",
-		"id": "segment_mean",
+		"id": "segment_meantensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "segment_min",
-		"id": "segment_min",
+		"id": "segment_mintensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "segment_prod",
-		"id": "segment_prod",
+		"id": "segment_prodtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "segment_sum",
-		"id": "segment_sum",
+		"id": "segment_sumtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "self_adjoint_eig",
-		"id": "self_adjoint_eig",
+		"id": "self_adjoint_eigtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "self_adjoint_eigvals",
-		"id": "self_adjoint_eigvals",
+		"id": "self_adjoint_eigvalstensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sequence_mask",
-		"id": "sequence_mask",
+		"id": "sequence_masktensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "serialize_many_sparse",
-		"id": "serialize_many_sparse",
+		"id": "serialize_many_sparsetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "serialize_sparse",
-		"id": "serialize_sparse",
+		"id": "serialize_sparsetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "set_random_seed",
-		"id": "set_random_seed",
+		"id": "set_random_seedtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "setdiff1d",
-		"id": "setdiff1d",
+		"id": "setdiff1dtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "shape",
-		"id": "shape",
+		"id": "shapetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "shape_n",
-		"id": "shape_n",
+		"id": "shape_ntensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sigmoid",
-		"id": "sigmoid",
+		"id": "sigmoidtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sign",
-		"id": "sign",
+		"id": "signtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sin",
-		"id": "sin",
+		"id": "sintensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "size",
-		"id": "size",
+		"id": "sizetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "slice",
-		"id": "slice",
+		"id": "slicetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "space_to_batch",
-		"id": "space_to_batch",
+		"id": "space_to_batchtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "space_to_batch_nd",
-		"id": "space_to_batch_nd",
+		"id": "space_to_batch_ndtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "space_to_depth",
-		"id": "space_to_depth",
+		"id": "space_to_depthtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_add",
-		"id": "sparse_add",
+		"id": "sparse_addtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_concat",
-		"id": "sparse_concat",
+		"id": "sparse_concattensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_fill_empty_rows",
-		"id": "sparse_fill_empty_rows",
+		"id": "sparse_fill_empty_rowstensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_mask",
-		"id": "sparse_mask",
+		"id": "sparse_masktensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_matmul",
-		"id": "sparse_matmul",
+		"id": "sparse_matmultensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_maximum",
-		"id": "sparse_maximum",
+		"id": "sparse_maximumtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_merge",
-		"id": "sparse_merge",
+		"id": "sparse_mergetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_minimum",
-		"id": "sparse_minimum",
+		"id": "sparse_minimumtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_placeholder",
-		"id": "sparse_placeholder",
+		"id": "sparse_placeholdertensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_reduce_sum",
-		"id": "sparse_reduce_sum",
+		"id": "sparse_reduce_sumtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_reduce_sum_sparse",
-		"id": "sparse_reduce_sum_sparse",
+		"id": "sparse_reduce_sum_sparsetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_reorder",
-		"id": "sparse_reorder",
+		"id": "sparse_reordertensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_reset_shape",
-		"id": "sparse_reset_shape",
+		"id": "sparse_reset_shapetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_reshape",
-		"id": "sparse_reshape",
+		"id": "sparse_reshapetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_retain",
-		"id": "sparse_retain",
+		"id": "sparse_retaintensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_segment_mean",
-		"id": "sparse_segment_mean",
+		"id": "sparse_segment_meantensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_segment_sqrt_n",
-		"id": "sparse_segment_sqrt_n",
+		"id": "sparse_segment_sqrt_ntensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_segment_sum",
-		"id": "sparse_segment_sum",
+		"id": "sparse_segment_sumtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_softmax",
-		"id": "sparse_softmax",
+		"id": "sparse_softmaxtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_split",
-		"id": "sparse_split",
+		"id": "sparse_splittensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_tensor_dense_matmul",
-		"id": "sparse_tensor_dense_matmul",
+		"id": "sparse_tensor_dense_matmultensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_tensor_to_dense",
-		"id": "sparse_tensor_to_dense",
+		"id": "sparse_tensor_to_densetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_to_dense",
-		"id": "sparse_to_dense",
+		"id": "sparse_to_densetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_to_indicator",
-		"id": "sparse_to_indicator",
+		"id": "sparse_to_indicatortensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sparse_transpose",
-		"id": "sparse_transpose",
+		"id": "sparse_transposetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "split",
-		"id": "split",
+		"id": "splittensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "sqrt",
-		"id": "sqrt",
+		"id": "sqrttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "square",
-		"id": "square",
+		"id": "squaretensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "squared_difference",
-		"id": "squared_difference",
+		"id": "squared_differencetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "squeeze",
-		"id": "squeeze",
+		"id": "squeezetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "stack",
-		"id": "stack",
+		"id": "stacktensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "stop_gradient",
-		"id": "stop_gradient",
+		"id": "stop_gradienttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "strided_slice",
-		"id": "strided_slice",
+		"id": "strided_slicetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "string_join",
-		"id": "string_join",
+		"id": "string_jointensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "string_split",
-		"id": "string_split",
+		"id": "string_splittensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "string_to_hash_bucket",
-		"id": "string_to_hash_bucket",
+		"id": "string_to_hash_buckettensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "string_to_hash_bucket_fast",
-		"id": "string_to_hash_bucket_fast",
+		"id": "string_to_hash_bucket_fasttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "string_to_hash_bucket_strong",
-		"id": "string_to_hash_bucket_strong",
+		"id": "string_to_hash_bucket_strongtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "string_to_number",
-		"id": "string_to_number",
+		"id": "string_to_numbertensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "substr",
-		"id": "substr",
+		"id": "substrtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "subtract",
-		"id": "subtract",
+		"id": "subtracttensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "svd",
-		"id": "svd",
+		"id": "svdtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "tables_initializer",
-		"id": "tables_initializer",
+		"id": "tables_initializertensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "tan",
-		"id": "tan",
+		"id": "tantensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "tanh",
-		"id": "tanh",
+		"id": "tanhtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "tensordot",
-		"id": "tensordot",
+		"id": "tensordottensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "tile",
-		"id": "tile",
+		"id": "tiletensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "to_bfloat16",
-		"id": "to_bfloat16",
+		"id": "to_bfloat16tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "to_double",
-		"id": "to_double",
+		"id": "to_doubletensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "to_float",
-		"id": "to_float",
+		"id": "to_floattensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "to_int32",
-		"id": "to_int32",
+		"id": "to_int32tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "to_int64",
-		"id": "to_int64",
+		"id": "to_int64tensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "trace",
-		"id": "trace",
+		"id": "tracetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "trainable_variables",
-		"id": "trainable_variables",
+		"id": "trainable_variablestensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "transpose",
-		"id": "transpose",
+		"id": "transposetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "truediv",
-		"id": "truediv",
+		"id": "truedivtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "truncated_normal",
-		"id": "truncated_normal",
+		"id": "truncated_normaltensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "truncatediv",
-		"id": "truncatediv",
+		"id": "truncatedivtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "truncatemod",
-		"id": "truncatemod",
+		"id": "truncatemodtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "tuple",
-		"id": "tuple",
+		"id": "tupletensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "unique",
-		"id": "unique",
+		"id": "uniquetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "unique_with_counts",
-		"id": "unique_with_counts",
+		"id": "unique_with_countstensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "unsorted_segment_sum",
-		"id": "unsorted_segment_sum",
+		"id": "unsorted_segment_sumtensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "unstack",
-		"id": "unstack",
+		"id": "unstacktensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "variable_axis_size_partitioner",
-		"id": "variable_axis_size_partitioner",
+		"id": "variable_axis_size_partitionertensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "variable_op_scope",
-		"id": "variable_op_scope",
+		"id": "variable_op_scopetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "variable_scope",
-		"id": "variable_scope",
+		"id": "variable_scopetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "variables_initializer",
-		"id": "variables_initializer",
+		"id": "variables_initializertensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "verify_tensor_all_finite",
-		"id": "verify_tensor_all_finite",
+		"id": "verify_tensor_all_finitetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "where",
-		"id": "where",
+		"id": "wheretensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "while_loop",
-		"id": "while_loop",
+		"id": "while_looptensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "write_file",
-		"id": "write_file",
+		"id": "write_filetensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "zeros",
-		"id": "zeros",
+		"id": "zerostensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "zeros_like",
-		"id": "zeros_like",
+		"id": "zeros_liketensorflow.",
 		"sublist": []
 	},
 	{
 		"text": "zeta",
-		"id": "zeta",
+		"id": "zetatensorflow.",
 		"sublist": []
 	}
 ]
