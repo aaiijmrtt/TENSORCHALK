@@ -1,11 +1,13 @@
 <div id="api-elems" class="column">
-    <ul class="menu vertical drilldown">
+    <ul class="menu vertical drilldown" data-drilldown>
         {{#each api_elem}}
-            <li id="{{id}}">{{text}}<ul>
-                {{#each sublist}}
-                    <li>{{text}}</li>
-                {{/each}}
-            </ul></li>
+            <li id="{{id}}"><a href="#">{{text}}</a>{{#if sublist}}
+                <ul>
+                    {{#each sublist}}
+                        <li id="{{id}}"><a href="#">{{text}}</a></li>
+                    {{/each}}
+                </ul>
+                {{/if}}</li>
         {{/each}}
     </ul>
 </div>
