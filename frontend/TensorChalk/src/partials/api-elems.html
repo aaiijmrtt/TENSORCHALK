@@ -1,0 +1,11 @@
+<div id="api-elems" class="column">
+    <ul class="menu vertical drilldown">
+        {{#each api_elem}}
+            <li id="{{id}}">{{text}}<ul>
+                {{#each sublist}}
+                    <li>{{text}}</li>
+                {{/each}}
+            </ul></li>
+        {{/each}}
+    </ul>
+</div>
