@@ -1,8 +1,8 @@
 <div id="api-elems" class="column">
-    <ul class="menu vertical drilldown" data-drilldown>
+    <ul class="menu vertical" data-drilldown data-close-on-click=true>
         {{#each api_elem}}
             <li id="{{id}}"><a href="#">{{text}}</a>{{#if sublist}}
-                <ul>
+                <ul class="menu vertical">
                     {{#each sublist}}
                         <li id="{{id}}"><a href="#">{{text}}</a></li>
                     {{/each}}

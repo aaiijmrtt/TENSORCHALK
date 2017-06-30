@@ -68,3 +68,24 @@ $darkest-fg: #7a8c9e;
         }
     }
 }
+
+#api-elems {
+    background-color: $light-bg;
+
+    ul {
+        background-color: $light-bg;
+
+        li {
+            padding: 0.1em 0em;
+            margin: 0.1em 0em;
+
+            a {
+                color:  $light-fg;
+                border-bottom: 2px solid $light-bg;
+            }
+        }
+        li:hover {
+            border-bottom: 2px solid $lightest-fg;
+        }
+    }
+}
