@@ -71,6 +71,7 @@ $darkest-fg: #7a8c9e;
 
 #api-elems {
     background-color: $light-bg;
+    overflow: auto;
 
     ul {
         background-color: $light-bg;
